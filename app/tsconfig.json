@@ -27,7 +27,9 @@
         "boot.ts",
         "component/comun/cabecera.component.ts",
         "component/comun/cuerpo.component.ts",
-        "component/comun/pie.component.ts"
+        "component/comun/pie.component.ts",
+        "component/pantallas/about.component.ts",
+        "component/pantallas/contact.component.ts"
     ],
     "atom": {
         "rewriteTsconfig": true
